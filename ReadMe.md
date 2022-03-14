@@ -7,7 +7,7 @@ Full Stack Defi
 Created & deployed DappToken (ERC20 Token) with initial supply of 1000000.
 Created TokenFarm with methods like :
     stakeToken
-    unStakeToken
+    unStakeToken 
     issueToken
     addAllowedToken
     getValue (calls priceffed on chainlink)
